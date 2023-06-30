@@ -1,4 +1,3 @@
 hi im devopler its sprint file1.txt
 stash1
 stash2
-
